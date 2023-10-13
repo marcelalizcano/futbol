@@ -1,0 +1,40 @@
+
+.contenido{
+  margin: 0;
+  margin-bottom: 100px;
+}
+.titulo {
+  float: left;
+  left: 50%;
+  transform: translateX(-50%);
+  position: relative;
+  color: white;
+}
+.autor{
+  display: flex;
+  align-items: center;
+  min-height: 80px;
+  margin-left: 45%;
+}
+.card{
+  margin-top: 50px !important;
+  width: auto;
+
+}
+.texto{
+  display: flex;
+  position: relative;
+}
+.texto2{
+  margin-top: 8%;
+}
+
+.col{
+  margin-left: 2%;
+}
+.boton{
+  background: #0c0404 !important;
+}
+.btn{
+  color: white;
+}
